@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results trackingurl="html/resources/TrackingConfig_ab1ab6b565bf56573eb63820371c278c.zip">
+  <arel><![CDATA[html/index.html?94a8afb2ba278cdb8943fe84f7f7f442]]></arel>
+  <object id="model1">
+    <title><![CDATA[cubo5obj]]></title>
+    <assets3d>
+      <model><![CDATA[html/resources/fa99beab223a24b34cd71fb337da9e9d/60f44381f8cc303e587bd6ca77a0cf5d.zip]]></model>
+      <transform>
+        <translation>
+          <x>264.7657775879</x>
+          <y>-282.8263549805</y>
+          <z>163.0401916504</z>
+        </translation>
+        <rotation type="eulerdeg">
+          <x>0.0</x>
+          <y>0.0</y>
+          <z>0.0</z>
+        </rotation>
+        <scale>
+          <x>0.0191679318</x>
+          <y>0.0191679318</y>
+          <z>0.0191679318</z>
+        </scale>
+      </transform>
+      <properties>
+        <coordinatesystemid>1</coordinatesystemid>
+      </properties>
+    </assets3d>
+    <viewparameters>
+      <visibility>
+        <liveview>false</liveview>
+      </visibility>
+    </viewparameters>
+  </object>
+  <object id="model7">
+    <title><![CDATA[cubo5obj]]></title>
+    <assets3d>
+      <model><![CDATA[html/resources/417ae7406f25e6bfd44e1f3d05057672/417ae7406f25e6bfd44e1f3d05057672.zip]]></model>
+      <transform>
+        <translation>
+          <x>-390.2467041016</x>
+          <y>-201.0878448486</y>
+          <z>84.8450012207</z>
+        </translation>
+        <rotation type="eulerdeg">
+          <x>0.0</x>
+          <y>0.0</y>
+          <z>-90.0550231934</z>
+        </rotation>
+        <scale>
+          <x>80.25</x>
+          <y>80.25</y>
+          <z>80.25</z>
+        </scale>
+      </transform>
+      <properties>
+        <coordinatesystemid>1</coordinatesystemid>
+      </properties>
+    </assets3d>
+    <viewparameters>
+      <visibility>
+        <liveview>false</liveview>
+      </visibility>
+    </viewparameters>
+  </object>
+  <object id="model11">
+    <title><![CDATA[cubo5obj]]></title>
+    <assets3d>
+      <model><![CDATA[html/resources/ee1c8d5cdae555fe48b0c4fff9dcc430/ee1c8d5cdae555fe48b0c4fff9dcc430.zip]]></model>
+      <transform>
+        <translation>
+          <x>21.5890464783</x>
+          <y>185.0489196777</y>
+          <z>77.2050018311</z>
+        </translation>
+        <rotation type="eulerdeg">
+          <x>0.0</x>
+          <y>0.0</y>
+          <z>-89.6273574829</z>
+        </rotation>
+        <scale>
+          <x>72.625</x>
+          <y>72.625</y>
+          <z>72.625</z>
+        </scale>
+      </transform>
+      <properties>
+        <coordinatesystemid>2</coordinatesystemid>
+      </properties>
+    </assets3d>
+    <viewparameters>
+      <visibility>
+        <liveview>false</liveview>
+      </visibility>
+    </viewparameters>
+  </object>
+</results>

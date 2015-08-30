@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Holo.Light" />
+    <style name="DialogTheme" parent="Theme.AppCompat.Dialog">
+
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+
+
+    </style>
+</resources>
