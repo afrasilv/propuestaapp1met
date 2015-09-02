@@ -6,5 +6,5 @@ Demo de la aplicación: https://play.google.com/store/apps/details?id=es.unex.af
 
 Los "targets" a utilizar para esta aplicación los podemos encontrar:
 
-1.- http://i.imgur.com/OF9x5jv.jpg
-2.- http://i.imgur.com/6kE5qyg.jpg
+1.- http://i.imgur.com/aN2DO87.jpg
+2.- http://i.imgur.com/sYMWQdI.png
